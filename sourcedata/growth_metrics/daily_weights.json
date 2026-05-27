@@ -1,0 +1,13 @@
+{
+    "participant_id": {
+        "Description": "Unique BIDS identifier for the subject."
+    },
+    "age_days": {
+        "Description": "Age of the animal on the day of measurement.",
+        "Units": "days"
+    },
+    "weight_g": {
+        "Description": "Daily body weight measurement.",
+        "Units": "grams"
+    }
+}
