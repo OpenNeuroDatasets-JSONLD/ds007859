@@ -1,4 +1,4 @@
-# A Longitudinal Sex-Balanced Normative Task-Free Functional Rat Dataset
+# A sex-balanced longitudinal developmental task-free fMRI rat dataset
 
 ## 1. MRI data overview
 This dataset contains longitudinal task-free functional and anatomical data from 36 Wistar rats (18 male and 18 female). Each subject was scanned across 5 developmental timepoints (sessions) at approximately postnatal day 28, 35, 49, 70 and 91
