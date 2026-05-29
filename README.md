@@ -1,10 +1,10 @@
-# A sex-balanced longitudinal developmental task-free fMRI rat dataset
+# A Sex-Balanced Longitudinal Developmental Task-Free fMRI Rat Dataset
 
-## 1. MRI data overview
+## 1. MRI Data Overview
 This dataset contains longitudinal task-free functional and anatomical data from 36 Wistar rats (18 male and 18 female). Each subject was scanned across 5 developmental timepoints (sessions) at approximately postnatal day 28, 35, 49, 70 and 91
 Data was acquired on a 7T Bruker scanner using an 8 channel rat head surface array coil. The scan parameters and sedation followed the standardrat protocol (Grandjean et al., 2023; https://doi.org/10.1038/s41593-023-01286-8)
 
-## 2. Other data overview
+## 2. Other Data Overview
 This dataset also includes a range of other data for these subjects such as puberty onset, oestrous smears, daily bodyweights.
 It also contains a range of derivative generated during preprocessing including, an unbiased population template, preprocessed timeseries, seed files and seed timeseries.
 
