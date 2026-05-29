@@ -1,5 +1,0 @@
-{
-    "Description": "Binary brain mask which replaced the rabies generated bold masks prior to running the confound step",
-    "SpatialReference": "bids:uriobj:tpl-normative",
-    "Type": "Brain"
-}

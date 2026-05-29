@@ -1,4 +1,0 @@
-{
-    "Description": "Confound-corrected resting-state timeseries",
-    "SpatialReference": "bids:uriobj:tpl-normative"
-}
