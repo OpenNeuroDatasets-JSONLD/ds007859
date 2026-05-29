@@ -1,0 +1,5 @@
+{
+    "Description": "Average BOLD timeseries extracted from the target Region of Interest (ROI).",
+    "SpatialReference": "bids:uriobj:tpl-normative",
+    "SamplingFrequency": 1.0 
+}
