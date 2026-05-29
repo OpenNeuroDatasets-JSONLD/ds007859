@@ -13,11 +13,11 @@ https://github.com/yu02019/BEN/tree/main/dataset_release#2.0
 
 
 ## Methodology & Parameters
-to create the this weight, domain adaption was carried out using the available pretrained Rat-T2WI-9.4T weight on github as the reference. This weight has similar parameters to STANDARDRAT, so was used for that reason. 
+to create the this weight, domain adaption was carried out using the available pretrained Rat-T2WI-9.4T weight on github as the reference. This weight has similar parameters to standardrat, so was used for that reason. 
 
 
 The following scans were manually masked by DMcL and used as the training set for domain adaption.
-The aim was to make the new weight genreralisable across age, sex and experimental run.
+The aim was to make the new weight generalisable across age, sex and experimental run.
 These scans were chosen to ensure training used 20 male and 20 female scans; ensure it was trained on 8 ses-1, 8 ses-2, 8 ses-3, 8 ses-4 and 8 ses-5 scans; and have 2 subjects from each experimental runs
 
 sub-2023080404_ses-1
