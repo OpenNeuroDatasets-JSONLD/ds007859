@@ -24,5 +24,6 @@
             "Citation": "https://zenodo.org/records/18469246",
             "Description": "Converted from raw Bruker ParaVision files to NIfTI/BIDS format."
         }
-    ]
+    ],
+    "EthicsApprovals": []
 }
