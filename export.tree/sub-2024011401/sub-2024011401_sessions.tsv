@@ -1,6 +1,0 @@
-session_id	target_age_group	age_days	weight_g	respiration_bpm	comment	scan_date
-ses-1	P28	29	75.5	106.5	n/a	20240212
-ses-2	P35	36	111	83.8	n/a	20240219
-ses-3	P49	50	160.5	57.8	n/a	20240304
-ses-4	P70	71	212	64.3	n/a	20240325
-ses-5	P91	92	240	74.8	n/a	20240415
