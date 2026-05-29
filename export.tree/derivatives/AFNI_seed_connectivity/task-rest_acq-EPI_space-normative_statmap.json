@@ -1,0 +1,5 @@
+{
+    "Description": "Seed-to-voxel functional connectivity map from AFNI (Pearson r or Fisher Z-transformed).",
+    "SpatialReference": "bids:uriobj:tpl-normative",
+    "StatmapType": "Functional Connectivity"
+}
