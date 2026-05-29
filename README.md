@@ -29,7 +29,7 @@ Beyond the raw BIDS data, this dataset includes source data and several derivati
 ## 4. Notes and Missing Data
 * sub-2023080406 does not have ses-1 (P28) scan due to technical issues with the scanner
 * A small number of physiological recordings (e.g., respiration rates for specific sessions) were lost or unrecorded due to hardware issues. These are  denoted as `n/a` in the `sessions.tsv` files.
-* Experimental wave and litter IDs are provided in `participants.tsv`.
+
 
 ## 5. Citation and Contact
 If you use this dataset or its derivatives in your research, please cite the accompanying manuscript:
