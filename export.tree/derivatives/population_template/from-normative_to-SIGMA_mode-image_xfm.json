@@ -1,0 +1,12 @@
+{
+    "Description": "Spatial transformations (Affine and SyN Warp) generated via ANTs to register the study-specific 'normative' population template to the standard SIGMA Wistar rat brain template.(v1.2.1)",
+    "TransformType": [
+        "Linear",
+        "Nonlinear"
+    ],
+    "SourceSpace": "normative",
+    "TargetSpace": "SIGMA",
+    "TargetTemplateDownload": "https://www.nitrc.org/projects/sigma_template",
+    "TargetTemplateCitation": "Barriere, D. A., et al. (2019). The SIGMA rat brain templates and atlases from neonatal to geriatric. Nature communications, 10(1), 5699.",
+    "Note": "The SIGMA reference template is not included in this dataset to respect the original authors' distribution. Please download it directly from the provided URL to apply these transformations."
+}

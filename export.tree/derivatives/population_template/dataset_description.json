@@ -1,0 +1,11 @@
+{
+    "Name": "Normative Population Template and ROIs",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "Name": "Custom Pipeline",
+            "Description": "Population average templates (0.2mm and 0.3mm) and associated ROIs used for functional preprocessing and analysis. The populaiton average was constructed using the two_level script from optimized_antsMultivariateTemplateConstruction"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "Name": "AFNI Brain Masks",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "Name": "AFNI",
+            "Description": "Binary brain masks generated via AFNI 3dAutomask."
+        }
+    ]
+}
