@@ -33,8 +33,8 @@ Beyond the raw BIDS data, this dataset includes source data and several derivati
 
 ## 5. Citation and Contact
 If you use this dataset or its derivatives in your research, please cite the accompanying manuscript:
-* [Insert Paper Title Here]
-* [Insert DOI or Journal Link Here]
+* A sex-balanced longitudinal developmental task-free fMRI rat dataset
+* https://doi.org/10.64898/2026.06.04.730202 
 
 For questions regarding the dataset, pipelines, or templates, please contact:
 * Daniel P. McLoone - mclooned@tcd.ie - Trinity College Institute of Neuroscience, Trinity College Dublin
